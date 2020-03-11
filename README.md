@@ -6,10 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to play
 
-To play, you use your computer keyboard:
-left, right and down to move the player(tetromino)
-up key to rotate the player.
-Enjoy!!!
+To play, you use your computer keyboard:<br />
+<ul>
+<li>left, right and down to move the player(tetromino)</li>
+<li>up key to rotate the player.</li>
+</ul> <br/>
+<strong>Enjoy!!!</strong>
 
 ## Available Scripts
 
